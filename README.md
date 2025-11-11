@@ -1,7 +1,8 @@
 # 🔓 Free Fire MAX SSL Unpinned v2.118.1  
 
 > A de-SSL-pinned build of **Free Fire MAX v2.118.1** for network analysis, modding, educational and research purposes **ONLY**.
-> Check releases for new version...
+
+## Check releases for new version...
 
 ---
 
